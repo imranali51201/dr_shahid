@@ -1,0 +1,11 @@
+.certificationsMain{
+    padding: 5%;
+    background-color: white;
+    overflow: scroll;
+}
+.certificatesHeadding{
+    color: rgb(107, 107, 107) !important;
+    font-size: 30px !important;
+    font-family: myFirstFont;
+}
+

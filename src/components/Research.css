@@ -1,0 +1,17 @@
+@font-face {
+    font-family: mySecondFont;
+    src: url(../fonts/Lora-VariableFont_wght.ttf);
+}
+.researchMain{
+    font-family: mySecondFont;
+    padding: 5%;
+}
+.researchHeadding{
+    color: rgb(107, 107, 107) !important;
+    font-size:25px !important;
+    font-family: myFirstFont;
+}
+.pic{
+    width: 25% !important ;
+    margin-bottom: 30px;
+}

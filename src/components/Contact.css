@@ -1,0 +1,23 @@
+@font-face {
+    font-family: mySecondFont;
+    src: url(../fonts/Lora-VariableFont_wght.ttf);
+}
+.contactMain{
+    font-family: mySecondFont;
+    padding: 5%;
+}
+.contact{
+    padding: 5%;
+}
+.contact p{
+    margin-bottom: 30px;
+}
+.contact p>a{
+    font-size: 18px;
+    color:rgb(109, 109, 109) !important;
+}
+.contactHeadding{
+    color: rgb(107, 107, 107) !important;
+    font-size: 30px !important;
+    font-family: myFirstFont;
+}

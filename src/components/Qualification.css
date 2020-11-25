@@ -1,0 +1,28 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(../fonts/Merriweather-Light.ttf);
+}
+@font-face {
+    font-family: mySecondFont;
+    src: url(../fonts/Lora-VariableFont_wght.ttf);
+}
+.qualificationMain{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 5%;
+    font-size: 20px;
+    font-family: mySecondFont;
+}
+.qualificationIcon{
+    font-size: 25px;
+    margin-right: 20px;
+}
+.qualificationHeadding{
+    color: rgb(107, 107, 107) !important;
+    font-size: 30px !important;
+    font-family: myFirstFont;
+}
+.qualificationTitle{
+    font-family: myFirstFont;
+}

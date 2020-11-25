@@ -1,0 +1,29 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(../fonts/Merriweather-Light.ttf);
+  }
+  @font-face {
+    font-family: mySecondFont;
+    src: url(../fonts/Lora-VariableFont_wght.ttf);
+}
+.homeMain{
+    padding: 5%;
+    font-family: mySecondFont ;
+}
+.profilePic{
+    width: 35%;
+    border-radius: 50%;
+    border: 3px solid rgb(0, 0, 0);
+}
+.homeIntroduction{
+    list-style: none;
+    font-size: 20px;
+}
+.homeIntroduction>li{
+    margin-bottom: 3%;
+    letter-spacing: 1px;
+}
+.icon{
+    color: green !important;
+    font-size: 25px;
+}
